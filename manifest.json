@@ -1,0 +1,9 @@
+{
+  "name": "Dusk",
+  "short_name": "Dusk",
+  "start_url": "/",
+  "background_color": "#71B1FF",
+  "theme_color": "#E2DFE9",
+  "display": "standalone",
+  "icons": []
+}

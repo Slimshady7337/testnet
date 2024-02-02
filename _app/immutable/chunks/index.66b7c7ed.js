@@ -1,0 +1,1 @@
+import{H as o}from"./control.e7f5239e.js";function i(r,e){if(isNaN(r)||r<400||r>599)throw new Error(`HTTP error status codes must be between 400 and 599 — ${r} is invalid`);return new o(r,e)}new TextEncoder;export{i as e};
